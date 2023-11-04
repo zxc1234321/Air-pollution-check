@@ -11,11 +11,11 @@
 #include <Arduino_JSON.h>
 
 const char* ssid = "KT_GIGA_2G_Wave2_7652";
-const char* password = "bk2fef5307";
+const char* password = "*";
 
-String openWeatherMapApiKey = "f47d7b34c834ccb126b14130f1dbc5e4";
-String lat = "37.5666791";
-String lon = "126.9782914";
+String openWeatherMapApiKey = "*";
+String lat = "*";
+String lon = "*";
 
 
 int pos1 = 0;
